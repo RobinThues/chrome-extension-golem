@@ -1,0 +1,15 @@
+#job-market {
+    display: none;
+}
+
+.social-tools {
+    display: none;
+}
+
+.social-tools--inverted {
+    display: none!important;
+}
+
+#pricehits {
+    display: none;
+}
